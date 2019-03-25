@@ -28,7 +28,7 @@ namespace Encrypt
         private void btnCeasar_Click(object sender, EventArgs e)
         {
             EncryptCeasar();
-            txtResult.Text = ketqua;
+            txtBanMa.Text = ketqua;
             ketqua = "";
         }
         public void EncryptCeasar()
@@ -44,14 +44,14 @@ namespace Encrypt
         private void btnDeCeasar_Click(object sender, EventArgs e)
         {
             DecryptCeasar();
-            txtResult.Text = ketqua;
+            txtGiaiMa.Text = ketqua;
             ketqua = "";
             chuoi = "";
         }
 
         private void DecryptCeasar()
         {
-            chuoi = txtInput.Text;
+            chuoi = txtBanMa.Text;
             for (int i = 0; i < chuoi.Length; i++)
                 ketqua += (char)('A' + (chuoi[i] - 'A' +
                 (26 - k)) % 26);
@@ -60,7 +60,7 @@ namespace Encrypt
         private void btnVigenereEncrypt_Click(object sender, EventArgs e)
         {
             string res = VigenereEncrypt();
-            txtVResult.Text = res;
+            txtVBanMa.Text = res;
             cipherText = "";
             plainText = "";
             Vkey = "";
@@ -99,7 +99,7 @@ namespace Encrypt
 
         public string VigenereDecrypt()
         {
-            cipherText = txtVInput.Text;
+            cipherText = txtVBanMa.Text;
             cipherText = cipherText.ToUpper();
             Vkey = txtVKey.Text;
             Vkey = Vkey.ToUpper();
@@ -110,7 +110,7 @@ namespace Encrypt
             {
                 kq[i] = (c[i] - k[j]) % alphabet.Length;
                 if (kq[i] < 0)
-                    kq[i] = (c[i] + (chuoi.Length - k[j])) % chuoi.Length;
+                    kq[i] = (c[i] + (alphabet.Length - k[j])) % alphabet.Length;
                 j = ++j % k.Length;
             }
             plainText = chiso_chuoi(kq);
@@ -120,8 +120,7 @@ namespace Encrypt
         private void btnVigenereDecrypt_Click(object sender, EventArgs e)
         {
             string res = VigenereDecrypt();
-            txtVResult.Text = res;
-            txtVResult.Text = res;
+            txtVGiaiMa.Text = res;
             cipherText = "";
             plainText = "";
             Vkey = "";
@@ -129,7 +128,7 @@ namespace Encrypt
 
         private void btnEncrypt3DS_Click(object sender, EventArgs e)
         {
-            txt3DSResult.Text = ThreeDSEncrypt(txt3DSInput.Text, txt3DSKey.Text, true);
+            txt3DSBanMa.Text = ThreeDSEncrypt(txt3DSInput.Text, txt3DSKey.Text, true);
         }
         public static string ThreeDSEncrypt(string toEncrypt, string key, bool useHashing)
         {
@@ -189,7 +188,7 @@ namespace Encrypt
 
         private void btnDecrypt3DS_Click(object sender, EventArgs e)
         {
-            txt3DSResult.Text = ThreeDSDecrypt(txt3DSInput.Text, txt3DSKey.Text, true); 
+            txt3DSGiaiMa.Text = ThreeDSDecrypt(txt3DSBanMa.Text, txt3DSKey.Text, true); 
         }
 
         #region-----Encryptionand Decryption Function-----
@@ -301,5 +300,6 @@ namespace Encrypt
         {
 
         }
+        
     }
 }
