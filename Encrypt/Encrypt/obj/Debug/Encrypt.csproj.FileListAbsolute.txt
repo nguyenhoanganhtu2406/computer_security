@@ -1,0 +1,30 @@
+D:\Projects_VS\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+D:\Projects_VS\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+D:\Projects_VS\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.Form1.resources
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.cache
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
+D:\Projects_VS\Encrypt\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.Form1.resources
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.cache
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+C:\Users\CaoLinh\Desktop\BMCSDL_LAB2_CAU def\Computer-Security-master\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.Form1.resources
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.cache
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+D:\Hoc\nam3-hk2\bmmmt\Computer-Security-Linh\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
