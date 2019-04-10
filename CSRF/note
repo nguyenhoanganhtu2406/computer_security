@@ -10,3 +10,5 @@ DB_PASSWORD=
 Acc test: admin@gmail.com | pass:123456
   Chỉ thao tác lên các trường cuối của mục thể loại.
   Các thể loại xóa lỗi 500 vì liên kết khóa ngoai tới các bảng dữ liệu khác nên không cho xóa.
+  
+  Đọc tham khảo về SameSite Cookie https://techblog.vn/cross-site-request-forgery-csrf-sap-het-thoi
