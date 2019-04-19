@@ -206,7 +206,7 @@ namespace Encrypt
             }
             catch (CryptographicException e)
             {
-                Console.WriteLine(e.Message);
+                MessageBox.Show(e.Message, "Lỗi", MessageBoxButtons.OK);
 
                 return null;
             }
@@ -227,7 +227,7 @@ namespace Encrypt
             }
             catch (CryptographicException e)
             {
-                Console.WriteLine(e.ToString());
+                MessageBox.Show(e.Message, "Lỗi", MessageBoxButtons.OK);
 
                 return null;
             }
